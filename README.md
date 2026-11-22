@@ -2,7 +2,7 @@
 
 # 🎮 ZennardX Hub
 
-[![Version](https://img.shields.io/badge/Versión-1.0%20BETA-blue?style=for-the-badge)](https://github.com/elfoxito77/zennardx-Hub/releases)
+[![Version](https://img.shields.io/badge/Versión-1.6%20Estable-blue?style=for-the-badge)](https://github.com/elfoxito77/zennardx-Hub/releases)
 [![Android](https://img.shields.io/badge/Android-5.0%2B-green?style=for-the-badge&logo=android)](https://github.com/elfoxito77/zennardx-Hub/releases)
 [![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen?style=for-the-badge)](https://zennardx.blogspot.com)
 
